@@ -198,3 +198,13 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* Tried to make header contents as optimizable as possible */
+@media screen and (max-width:768px) {
+    header { 
+        width: 80%;
+    }
+    
+
+}
+
+
